@@ -44,7 +44,7 @@
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
 				<Property Name="Source[0].Container.applyPrefix" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{B5EC55BB-D57F-4A7E-84A8-8A2F639800DC}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{5F05A6CC-BCE3-4358-AEFC-C5957F127297}</Property>
 				<Property Name="Source[0].newName" Type="Str">HDH.Data.Generic_</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
@@ -59,7 +59,7 @@
 				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">HDH.Data.Generic</Property>
 				<Property Name="TgtF_internalName" Type="Str">HDH.Data.Generic</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2016 </Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2021 HenrikDueholm</Property>
 				<Property Name="TgtF_productName" Type="Str">HDH.Data.Generic</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{EDDF57EC-18FD-4522-8563-E33D37E61700}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">HDH.Data.Generic.lvlibp</Property>

@@ -89,7 +89,7 @@
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
 				<Property Name="Source[0].Container.applyPrefix" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{BCBCD14D-2AFD-4376-AE89-50757F6787A6}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{EE5C35BD-FEC7-44B7-8960-C428AA168783}</Property>
 				<Property Name="Source[0].newName" Type="Str">HDH.Data.Generic.FileIO.TDMS_</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
@@ -104,7 +104,7 @@
 				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">HDH.Data.Generic.FileIO.TDMS</Property>
 				<Property Name="TgtF_internalName" Type="Str">HDH.Data.Generic.FileIO.TDMS</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2016 </Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2021 HenrikDueholm</Property>
 				<Property Name="TgtF_productName" Type="Str">HDH.Data.Generic.FileIO.TDMS</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{91A72F0A-5E3D-432B-BB12-D15EF13BF7A4}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">HDH.Data.Generic.FileIO.TDMS.lvlibp</Property>
